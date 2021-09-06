@@ -14,7 +14,7 @@ def main():
             break
 
     promedio=suma/n
-    print(promedio)
+    print(promedio
     
 if __name__=='__main__':
     main()
